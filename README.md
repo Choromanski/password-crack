@@ -1,4 +1,4 @@
-# Password Crack
+# Password Crack, University of Pittsburgh CS 0449 Project 2 part 2
 
 ## Password 1: bCveijDSLGBvaXEoeNuzHYVcsnJf
 
